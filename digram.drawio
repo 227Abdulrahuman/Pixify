@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T17:08:05.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3dBTRa6qFx9unKRs4HG0" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-19T17:40:51.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iaHrsw7rnHSxhhr3DVrb" version="22.0.5" type="device">
   <diagram name="Page-1" id="GdB6efjMJgtCf3cVeGv4">
-    <mxGraphModel dx="1304" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,13 +58,13 @@
             <mxPoint x="1240" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-5">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-13">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tO3lcBpu8gQsqPAGqt3G-3" target="R6AwE9PS5d2aog22X0yH-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2550" y="240" as="targetPoint" />
           </mxGeometry>
@@ -241,13 +241,13 @@
         <mxCell id="tO3lcBpu8gQsqPAGqt3G-51" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;Darken or Lighten&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;in this function we make user choose between darken image and lighten the image&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;and then we make him choose the&amp;nbsp;percentage&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;and if he choose lighten image we add this percentage to the value of the pixels&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;else we subtract this percentage;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1200" y="439" width="235" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-1" value="Edges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-1" value="Edges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1650" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-3" value="&lt;div&gt;edges function in this function we make image black and wight&lt;/div&gt;&lt;div&gt;and then check for all pixels if all edges around it equal it or not if they equal it then it is not an edge&lt;/div&gt;&lt;div&gt;so we make it&#39;s pixel = 255 else then it is edge and make it&#39;s pixel = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-3" value="&lt;div&gt;edges function in this function we make image black and wight&lt;/div&gt;&lt;div&gt;and then check for all pixels if all edges around it equal it or not if they equal it then it is not an edge&lt;/div&gt;&lt;div&gt;so we make it&#39;s pixel = 255 else then it is edge and make it&#39;s pixel = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1640" y="430" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-1" target="R6AwE9PS5d2aog22X0yH-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-1" target="R6AwE9PS5d2aog22X0yH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="340" as="sourcePoint" />
             <mxPoint x="1760" y="290" as="targetPoint" />
@@ -257,13 +257,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-5" value="Enlarge" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-5" value="Enlarge" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2100" y="260" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-6" value="in this function we make the user choose a quarter an then for each pixel in this quarter we make it four pixels in the temp image" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-6" value="in this function we make the user choose a quarter an then for each pixel in this quarter we make it four pixels in the temp image" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2050" y="426.5" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-5" target="R6AwE9PS5d2aog22X0yH-5">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-5" target="R6AwE9PS5d2aog22X0yH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2350" y="330" as="sourcePoint" />
             <mxPoint x="2400" y="280" as="targetPoint" />
@@ -272,16 +272,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-13" value="shrink" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-13" value="shrink" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2490" y="250" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-14" value="The user enters the shrink dimensions, and we loop on the image and take the average based on the dimensions of the shrink, and put it in the output image.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-14" value="The user enters the shrink dimensions, and we loop on the image and take the average based on the dimensions of the shrink, and put it in the output image.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2440" y="414" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-14" target="R6AwE9PS5d2aog22X0yH-13">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-14" target="R6AwE9PS5d2aog22X0yH-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-17" target="tO3lcBpu8gQsqPAGqt3G-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-17" target="tO3lcBpu8gQsqPAGqt3G-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2965" y="120" />
@@ -291,16 +291,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-17" value="crop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-17" value="crop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2880" y="220" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-18" value="Based on user choice to the coordinates, length and width, we make a rectangle with them, and we whiten every pixel around it in the picture.&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-18" value="Based on user choice to the coordinates, length and width, we make a rectangle with them, and we whiten every pixel around it in the picture.&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2860" y="400" width="270" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-18" target="R6AwE9PS5d2aog22X0yH-17">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-18" target="R6AwE9PS5d2aog22X0yH-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-22" target="tO3lcBpu8gQsqPAGqt3G-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-22" target="tO3lcBpu8gQsqPAGqt3G-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3445" y="70" />
@@ -309,22 +309,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-22" value="mirror" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-22" value="mirror" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3350" y="190" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-24" target="R6AwE9PS5d2aog22X0yH-22">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R6AwE9PS5d2aog22X0yH-24" target="R6AwE9PS5d2aog22X0yH-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-24" value="Based on user choice to which half&amp;nbsp; of the image to mirror (right, left, up and down), we act as mirror, as we assign each pixel in the opposite half to the user choice, to the pixel in the user choice side." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-24" value="Based on user choice to which half&amp;nbsp; of the image to mirror (right, left, up and down), we act as mirror, as we assign each pixel in the opposite half to the user choice, to the pixel in the user choice side." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3310" y="394" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-27" value="Shuffle&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-27" value="Shuffle&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3870" y="170" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-28" value="Based on user choice to the coordinates, we take each coordinate in a vector of arrays of size 4, then we loop on it&amp;nbsp; based on user choice, and assign it to each quadrant(normal order).&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-28" value="Based on user choice to the coordinates, we take each coordinate in a vector of arrays of size 4, then we loop on it&amp;nbsp; based on user choice, and assign it to each quadrant(normal order).&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3840" y="390" width="270" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-27" target="tO3lcBpu8gQsqPAGqt3G-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-27" target="tO3lcBpu8gQsqPAGqt3G-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3965" y="30" />
@@ -333,19 +333,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-27" target="R6AwE9PS5d2aog22X0yH-28">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-27" target="R6AwE9PS5d2aog22X0yH-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-31" target="R6AwE9PS5d2aog22X0yH-32">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-31" target="R6AwE9PS5d2aog22X0yH-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-31" value="Blur" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-31" value="Blur" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4380" y="160" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-32" value="The user chooses the degree of blur, we loop on image and based on the degree of the blur, we determine the kernel radius, then we loop on the image, each pixel we make another nested loop from (-radius/2 to +radius/2), we add the pixels surrounding this pixels, and divide them on the kernel radius ^ 2." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-32" value="The user chooses the degree of blur, we loop on image and based on the degree of the blur, we determine the kernel radius, then we loop on the image, each pixel we make another nested loop from (-radius/2 to +radius/2), we add the pixels surrounding this pixels, and divide them on the kernel radius ^ 2." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="4370" y="396.5" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-31" target="tO3lcBpu8gQsqPAGqt3G-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-31" target="tO3lcBpu8gQsqPAGqt3G-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4505" />
@@ -354,15 +354,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-35" value="skew" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-35" value="skew" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4970" y="130" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-36">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R6AwE9PS5d2aog22X0yH-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5120" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6AwE9PS5d2aog22X0yH-35" target="tO3lcBpu8gQsqPAGqt3G-3">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6AwE9PS5d2aog22X0yH-35" target="tO3lcBpu8gQsqPAGqt3G-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5130" y="-70" />
@@ -371,8 +371,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6AwE9PS5d2aog22X0yH-36" value="The User determines the degree of the skew form (-45 to 45 degrees), we loop on the image, and get the side opposite to the angle (by multiplying the tan of the angle with the adjacent side), and set them to white, so now we have to white triangles, we compress the remaining parts (that are not white)." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R6AwE9PS5d2aog22X0yH-36" value="The User determines the degree of the skew form (-45 to 45 degrees), we loop on the image, and get the side opposite to the angle (by multiplying the tan of the angle with the adjacent side), and set them to white, so now we have to white triangles, we compress the remaining parts (that are not white)." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="5020" y="380" width="313" height="313" as="geometry" />
+        </mxCell>
+        <mxCell id="7UsyMCokqZffbPTIiyea-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7UsyMCokqZffbPTIiyea-1" target="tO3lcBpu8gQsqPAGqt3G-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5660" y="-140" />
+              <mxPoint x="3005" y="-140" />
+              <mxPoint x="3005" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UsyMCokqZffbPTIiyea-1" value="Image_Save" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="100" width="220" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
