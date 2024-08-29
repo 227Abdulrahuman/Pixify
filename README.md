@@ -1,0 +1,1 @@
+ A C++ application featuring advanced photo editing tools, including black & white, invert, merge, flip, rotate, darken/lighten, edge detection, enlarge/shrink, mirror, shuffle, blur, crop, skew, and save functions. 
